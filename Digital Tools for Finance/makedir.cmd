@@ -1,0 +1,1 @@
+mkdir %RESEARCH_PATH%\test
