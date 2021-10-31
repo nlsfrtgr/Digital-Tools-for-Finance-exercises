@@ -1,0 +1,113 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{DevenowRationalHerdingInFinancialEconomics}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ab30dab35faa114fdc5531065b9d9e33}{%
+           family={Devenow},
+           familyi={D\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=600af3451e039948f3a785f4e1c0f14c}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Ivo},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a3109a389d9a12757c93d3964671334}
+      \strng{fullhash}{8a3109a389d9a12757c93d3964671334}
+      \strng{bibnamehash}{8a3109a389d9a12757c93d3964671334}
+      \strng{authorbibnamehash}{8a3109a389d9a12757c93d3964671334}
+      \strng{authornamehash}{8a3109a389d9a12757c93d3964671334}
+      \strng{authorfullhash}{8a3109a389d9a12757c93d3964671334}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0014-2921}
+      \field{journaltitle}{European Economic Review}
+      \field{note}{Papers and Proceedings of the Tenth Annual Congress of the European Economic Association}
+      \field{number}{3}
+      \field{title}{Rational herding in financial economics}
+      \field{volume}{40}
+      \field{year}{1996}
+      \field{pages}{603\bibrangedash 615}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0014-2921(95)00073-9
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0014292195000739
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0014292195000739
+      \endverb
+      \keyw{Herding,Imitation,Coordination,Cascades}
+    \endentry
+    \entry{Milgrom}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a4267764a94a77bbce7f015eff99694f}{%
+           family={Milgrom},
+           familyi={M\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=415529543766d403c8f68281ec85fe0d}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{b4935c26c4629ec85cd64f64a903d6b0}
+      \strng{fullhash}{b4935c26c4629ec85cd64f64a903d6b0}
+      \strng{bibnamehash}{b4935c26c4629ec85cd64f64a903d6b0}
+      \strng{authorbibnamehash}{b4935c26c4629ec85cd64f64a903d6b0}
+      \strng{authornamehash}{b4935c26c4629ec85cd64f64a903d6b0}
+      \strng{authorfullhash}{b4935c26c4629ec85cd64f64a903d6b0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{number}{5}
+      \field{title}{A Theory of Auctions and Competitive Bidding}
+      \field{volume}{50}
+      \field{year}{1982}
+      \field{pages}{1089}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.2307/1911865
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

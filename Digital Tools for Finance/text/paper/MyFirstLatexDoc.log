@@ -1,0 +1,564 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.29)  31 OCT 2021 13:19
+entering extended mode
+**./MyFirstLatexDoc.tex
+(MyFirstLatexDoc.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count190
+\@cmidlb=\count191
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count192
+\@lastruleclass=\count193
+\@thisrulewidth=\dimen151
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box50
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+) (C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count194
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box51
+\rot@mess@toks=\toks17
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count195
+\c@Blindtext=\count196
+\c@blind@countparstart=\count197
+\blind@countxx=\count198
+\blindtext@numBlindtext=\count199
+\blind@countyy=\count266
+\c@blindlist=\count267
+\c@blindlistlevel=\count268
+\c@blindlist@level=\count269
+\blind@listitem=\count270
+\c@blind@listcount=\count271
+\c@blind@levelcount=\count272
+\blind@mathformula=\count273
+\blind@Mathformula=\count274
+\c@blind@randomcount=\count275
+\c@blind@randommax=\count276
+\c@blind@pangramcount=\count277
+\c@blind@pangrammax=\count278
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen154
+))
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count279
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count280
+\leftroot@=\count281
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count282
+\DOTSCASE@=\count283
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count284
+\c@MaxMatrixCols=\count285
+\dotsspace@=\muskip16
+\c@parentequation=\count286
+\dspbrk@lvl=\count287
+\tag@help=\toks19
+\row@=\count288
+\column@=\count289
+\maxfields@=\count290
+\andhelp@=\toks20
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count291
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count292
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count293
+\c@listtotal=\count294
+\c@listcount=\count295
+\c@liststart=\count296
+\c@liststop=\count297
+\c@citecount=\count298
+\c@citetotal=\count299
+\c@multicitecount=\count300
+\c@multicitetotal=\count301
+\c@instcount=\count302
+\c@maxnames=\count303
+\c@minnames=\count304
+\c@maxitems=\count305
+\c@minitems=\count306
+\c@citecounter=\count307
+\c@maxcitecounter=\count308
+\c@savedcitecounter=\count309
+\c@uniquelist=\count310
+\c@uniquename=\count311
+\c@refsection=\count312
+\c@refsegment=\count313
+\c@maxextratitle=\count314
+\c@maxextratitleyear=\count315
+\c@maxextraname=\count316
+\c@maxextradate=\count317
+\c@maxextraalpha=\count318
+\c@abbrvpenalty=\count319
+\c@highnamepenalty=\count320
+\c@lownamepenalty=\count321
+\c@maxparens=\count322
+\c@parenlevel=\count323
+\blx@tempcnta=\count324
+\blx@tempcntb=\count325
+\blx@tempcntc=\count326
+\blx@maxsection=\count327
+\blx@maxsegment@0=\count328
+\blx@notetype=\count329
+\blx@parenlevel@text=\count330
+\blx@parenlevel@foot=\count331
+\blx@sectionciteorder@0=\count332
+\blx@entrysetcounter=\count333
+\blx@biblioinstance=\count334
+\labelnumberwidth=\skip54
+\labelalphawidth=\skip55
+\biblabelsep=\skip56
+\bibitemsep=\skip57
+\bibnamesep=\skip58
+\bibinitsep=\skip59
+\bibparsep=\skip60
+\bibhang=\skip61
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count335
+\c@maxcomprange=\count336
+\c@mincompwidth=\count337
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'bwl-FU.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count338
+\c@savedafterword=\count339
+\c@annotator=\count340
+\c@savedannotator=\count341
+\c@author=\count342
+\c@savedauthor=\count343
+\c@bookauthor=\count344
+\c@savedbookauthor=\count345
+\c@commentator=\count346
+\c@savedcommentator=\count347
+\c@editor=\count348
+\c@savededitor=\count349
+\c@editora=\count350
+\c@savededitora=\count351
+\c@editorb=\count352
+\c@savededitorb=\count353
+\c@editorc=\count354
+\c@savededitorc=\count355
+\c@foreword=\count356
+\c@savedforeword=\count357
+\c@holder=\count358
+\c@savedholder=\count359
+\c@introduction=\count360
+\c@savedintroduction=\count361
+\c@namea=\count362
+\c@savednamea=\count363
+\c@nameb=\count364
+\c@savednameb=\count365
+\c@namec=\count366
+\c@savednamec=\count367
+\c@translator=\count368
+\c@savedtranslator=\count369
+\c@shortauthor=\count370
+\c@savedshortauthor=\count371
+\c@shorteditor=\count372
+\c@savedshorteditor=\count373
+\c@labelname=\count374
+\c@savedlabelname=\count375
+\c@institution=\count376
+\c@savedinstitution=\count377
+\c@lista=\count378
+\c@savedlista=\count379
+\c@listb=\count380
+\c@savedlistb=\count381
+\c@listc=\count382
+\c@savedlistc=\count383
+\c@listd=\count384
+\c@savedlistd=\count385
+\c@liste=\count386
+\c@savedliste=\count387
+\c@listf=\count388
+\c@savedlistf=\count389
+\c@location=\count390
+\c@savedlocation=\count391
+\c@organization=\count392
+\c@savedorganization=\count393
+\c@origlocation=\count394
+\c@savedoriglocation=\count395
+\c@origpublisher=\count396
+\c@savedorigpublisher=\count397
+\c@publisher=\count398
+\c@savedpublisher=\count399
+\c@language=\count400
+\c@savedlanguage=\count401
+\c@origlanguage=\count402
+\c@savedoriglanguage=\count403
+\c@pageref=\count404
+\c@savedpageref=\count405
+\shorthandwidth=\skip62
+\shortjournalwidth=\skip63
+\shortserieswidth=\skip64
+\shorttitlewidth=\skip65
+\shortauthorwidth=\skip66
+\shorteditorwidth=\skip67
+\locallabelnumberwidth=\skip68
+\locallabelalphawidth=\skip69
+\localshorthandwidth=\skip70
+\localshortjournalwidth=\skip71
+\localshortserieswidth=\skip72
+\localshorttitlewidth=\skip73
+\localshortauthorwidth=\skip74
+\localshorteditorwidth=\skip75
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count406
+\c@textcitetotal=\count407
+\c@textcitemaxnames=\count408
+\c@biburlbigbreakpenalty=\count409
+\c@biburlbreakpenalty=\count410
+\c@biburlnumpenalty=\count411
+\c@biburlucpenalty=\count412
+\c@biburllcpenalty=\count413
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count414
+)
+Package biblatex Info: Trying to load bibliography style 'bwl-FU'...
+Package biblatex Info: ... file 'bwl-FU.bbx' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-bwl\bwl-FU.bbx
+File: bwl-FU.bbx 2012/05/19 v0.02 biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear
+.bbx
+File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count415
+\c@bbx:relatedtotal=\count416
+)))
+Package biblatex Info: Trying to load citation style 'bwl-FU'...
+Package biblatex Info: ... file 'bwl-FU.cbx' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-bwl\bwl-FU.cbx
+File: bwl-FU.cbx 2012/05/19 v0.02 biblatex citation style
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear
+.cbx
+File: authoryear.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Redefining '\parencite'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+\@quotelevel=\count417
+\@quotereset=\count418
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count419
+\l__pdf_internal_box=\box54
+) (MyFirstLatexDoc.aux)
+\openout1 = `MyFirstLatexDoc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count420
+\scratchdimen=\dimen163
+\scratchbox=\box55
+\nofMPsegments=\count421
+\nofMParguments=\count422
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count423
+\MPscratchDim=\dimen164
+\MPnumerator=\count424
+\makeMPintoPDFobject=\count425
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-10-18 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-10-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\nils-\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `MyFirstLatexDoc.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'MyFirstLatexDoc.bbl' found.
+ (MyFirstLatexDoc.bbl)
+Package biblatex Info: Reference section=0 on input line 23.
+Package biblatex Info: Reference segment=0 on input line 23.
+ [1
+
+{C:/Users/nils-/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
+ [6]
+<line-graph.jpg, id=26, 708.6475pt x 419.5675pt>
+File: line-graph.jpg Graphic file (type jpg)
+<use line-graph.jpg>
+Package pdftex.def Info: line-graph.jpg  used on input line 97.
+(pdftex.def)             Requested size: 310.4979pt x 183.83562pt.
+ [7 <./line-graph.jpg>]
+(MyFirstLatexDoc.aux)
+Package logreq Info: Writing requests to 'MyFirstLatexDoc.run.xml'.
+\openout1 = `MyFirstLatexDoc.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10128 strings out of 478907
+ 188300 string characters out of 2851891
+ 913746 words of memory out of 3000000
+ 27903 multiletter control sequences out of 15000+600000
+ 406042 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,13n,80p,750b,1181s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/nils-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Users/nils-/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx9.pfb><C:/Users/nils-/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmcsc10.pfb><C:/Users/nils-/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nils-/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/nils-/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/nils-/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/nils-/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on MyFirstLatexDoc.pdf (7 pages, 133552 bytes).
+PDF statistics:
+ 67 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
